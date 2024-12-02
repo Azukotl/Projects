@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Debug\heartbreaker.exe.config
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Debug\heartbreaker.exe
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Debug\heartbreaker.pdb
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.Form1.resources
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.Properties.Resources.resources
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.exe
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Debug\heartbreaker.pdb

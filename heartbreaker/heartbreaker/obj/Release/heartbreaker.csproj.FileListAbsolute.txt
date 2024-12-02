@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Release\heartbreaker.exe.config
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Release\heartbreaker.exe
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\bin\Release\heartbreaker.pdb
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Release\heartbreaker.Form1.resources
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Release\heartbreaker.Properties.Resources.resources
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Release\heartbreaker.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Release\heartbreaker.exe
+C:\Users\student\Desktop\IT1-1-16\heartbreaker\heartbreaker\obj\Release\heartbreaker.pdb

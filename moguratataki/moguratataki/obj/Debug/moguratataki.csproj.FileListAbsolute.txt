@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\bin\Debug\moguratataki.exe.config
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\bin\Debug\moguratataki.exe
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\bin\Debug\moguratataki.pdb
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.Form1.resources
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.Properties.Resources.resources
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.exe
+C:\Users\student\Desktop\7アズ\C 言語\moguratataki\moguratataki\obj\Debug\moguratataki.pdb

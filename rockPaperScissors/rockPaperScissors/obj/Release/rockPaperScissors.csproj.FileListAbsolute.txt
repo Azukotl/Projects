@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\rockPaperScissors.exe.config
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\Image\choki.png
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\Image\gu.png
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\Image\pa.png
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\rockPaperScissors.exe
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\bin\Release\rockPaperScissors.pdb
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.Form1.resources
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.Properties.Resources.resources
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.exe
+C:\Users\student\Desktop\IT1-1-16\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.pdb
+G:\rockPaperScissors\rockPaperScissors\bin\Release\rockPaperScissors.exe.config
+G:\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.exe
+G:\rockPaperScissors\rockPaperScissors\obj\Release\rockPaperScissors.pdb
